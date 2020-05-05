@@ -9,5 +9,7 @@
 1-7) $sudo make install
 
 2-1) pi@raspberrypi:~/nodejs-test $ npm init
+
 2-2) pi@raspberrypi:~/nodejs-test $ npm install node-dht-sensor --save
+
 2-3) pi@raspberrypi:~/nodejs-test $ sudo node humitemp.js
